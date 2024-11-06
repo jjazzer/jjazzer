@@ -37,7 +37,7 @@ My personal collection of links to resources and online materials I use. Enjoy.
 - [sforzando](https://www.plogue.com/products/sforzando.html) by [Plogue](https://www.plogue.com/) - SF2 & SFZ Instrument
 - [GVST](https://gvst.uk/) - neat little VST collection
 
-### Websites
+## Websites
 
 - [Pixabay](https://pixabay.com/) - Royalty-free media resources
 
